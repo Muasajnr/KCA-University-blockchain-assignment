@@ -1,1 +1,1 @@
-![alt](Screenshot (26).png)
+![alt](Screenshot%20(26).png)
